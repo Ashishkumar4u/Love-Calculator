@@ -50,13 +50,7 @@ Then open the project folder and run `index.html` in your browser.
 
 You can also use **Live Server** in VS Code.
 
-## 📸 Preview
 
-You can add a screenshot of the project here:
-
-```markdown
-![Love Calculator](screenshot.png)
-```
 
 ## 💡 About the Result
 
